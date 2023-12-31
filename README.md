@@ -12,16 +12,28 @@ This repository contains a comprehensive Python program for predictive financial
 
 Table of Contents:
 Introduction
+
 Data Collection
+
 Feature Engineering
+
 Target Variable Setup
+
 Exploratory Data Analysis
+
 Scaling and Preprocessing
+
+
 LSTM-based Autoencoder
+
 XGBoost Regressor
+
 LSTM Model
+
 Ensemble Approach
+
 Results and Evaluation
+
 Conclusion
 
 
