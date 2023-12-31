@@ -1,5 +1,7 @@
 Predictive Financial Analysis with Ensemble Models
+
 ** To view ouput , ppt and conference paper go to Ouputes file **
+
 Overview:
 This repository contains a comprehensive Python program for predictive financial analysis, focusing on stock price forecasting using a diverse set of machine learning models. The project employs time series analysis, deep learning, and ensemble techniques to enhance the accuracy of stock price predictions.
 
