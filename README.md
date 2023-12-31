@@ -11,6 +11,7 @@ This repository contains a comprehensive Python program for predictive financial
 
 
 Table of Contents:
+
 Introduction
 
 Data Collection
